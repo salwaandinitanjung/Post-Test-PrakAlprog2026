@@ -2,13 +2,19 @@
 
 # 📊 Student AI Usage Visualization
 
-### Analisis dan visualisasi data penggunaan AI pada pelajar
+### Analisis dan Visualisasi Data Penggunaan AI pada Pelajar
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python" alt="Python 3.12"></a>
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" alt="Jupyter Notebook"></a>
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" alt="Pandas"></a>
 <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge" alt="Matplotlib"></a>
 <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-Statistical%20Plot-4C72B0?style=for-the-badge" alt="Seaborn"></a>
+
+<br><br>
+
+> 🎓 Post-Test Praktikum Algoritma dan Pemrograman · Semester 2 · Teknik Elektro · Universitas Diponegoro
+>
+> 👥 Kelompok 6 · Kelas F
 
 </div>
 
@@ -24,7 +30,7 @@
 
 ## 📌 About The Project
 
-**Student AI Usage Visualization** adalah project eksplorasi data sederhana yang bertujuan untuk melihat pola penggunaan AI dalam aktivitas belajar. Dataset yang digunakan adalah `Kelas F_Student AI Usage.csv`, kemudian divisualisasikan menggunakan beberapa notebook Jupyter.
+**Student AI Usage Visualization** adalah project eksplorasi data yang bertujuan untuk melihat pola penggunaan AI dalam aktivitas belajar. Dataset yang digunakan adalah `Kelas F_Student AI Usage.csv`, kemudian dianalisis dan divisualisasikan menggunakan beberapa notebook Jupyter.
 
 Project ini membahas beberapa hal utama, seperti:
 
@@ -67,16 +73,16 @@ Project ini dibuat menggunakan:
 ```bash
 .
 ├── assets/
-│   ├── grafik-1-kategori-a.png
-│   ├── grafik-2-kategori-b.png
-│   ├── grafik-3-kategori-c.png
-│   ├── grafik-4-kategori-d.png
-│   └── grafik-5-gabungan.png
-├── Grafik 1 (Kategori A).ipynb
-├── Grafik 2 (Kategori B).ipynb
-├── Grafik 3 (Kategori C).ipynb
-├── Grafik 4 (Kategori D).ipynb
-├── Grafik 5 (Gabungan).ipynb
+│   ├── grafik-kategori-a.png
+│   ├── grafik-kategori-b.png
+│   ├── grafik-kategori-c.png
+│   ├── grafik-kategori-d.png
+│   └── grafik-gabungan.png
+├── Grafik Kategori A.ipynb
+├── Grafik Kategori B.ipynb
+├── Grafik Kategori C.ipynb
+├── Grafik Kategori D.ipynb
+├── Grafik Kategori Gabungan.ipynb
 ├── Kelas F_Student AI Usage.csv
 └── README.md
 ```
@@ -105,11 +111,11 @@ Dataset terdiri dari **100 responden** dengan **9 kolom utama**.
 
 | Notebook | Visualisasi | Deskripsi |
 | --- | --- | --- |
-| `Grafik Kategori A.ipynb` | Bar Chart | Rata-rata screen time harian berdasarkan software AI yang digunakan |
-| `Grafik Kategori B.ipynb` | Bar Chart | Distribusi umur pengguna AI yang tidak mengalami perubahan nilai |
-| `Grafik Kategori C.ipynb` | Stripplot (Jittered) | Korelasi durasi layar harian dengan waktu belajar per hari |
-| `Grafik Kategori D.ipynb` | Histogram | Distribusi nilai awal siswa sebelum penggunaan AI |
-| `Grafik Kategori Gabungan.ipynb` | Combined Plot | Gabungan seluruh visualisasi dalam layout 2 × 2 |
+| `Grafik 1 (Kategori A).ipynb` | Bar Chart | Rata-rata screen time harian berdasarkan software AI yang digunakan |
+| `Grafik 2 (Kategori B).ipynb` | Bar Chart | Distribusi umur pengguna AI yang tidak mengalami perubahan nilai |
+| `Grafik 3 (Kategori C).ipynb` | Stripplot (Jittered) | Korelasi durasi layar harian dengan waktu belajar per hari |
+| `Grafik 4 (Kategori D).ipynb` | Histogram + KDE | Distribusi nilai awal siswa sebelum penggunaan AI |
+| `Grafik 5 (Gabungan).ipynb` | Combined Plot | Gabungan seluruh visualisasi dalam layout 2 × 2 |
 
 ---
 
@@ -121,7 +127,7 @@ Dataset terdiri dari **100 responden** dengan **9 kolom utama**.
 <br>
 
 <p align="center">
-  <img src="assets/grafik-kategori-a.png" alt="Grafik Kategori A" width="750">
+  <img src="assets/grafik-1-kategori-a.png" alt="Grafik 1 Kategori A" width="750">
 </p>
 
 </details>
@@ -132,7 +138,7 @@ Dataset terdiri dari **100 responden** dengan **9 kolom utama**.
 <br>
 
 <p align="center">
-  <img src="assets/grafik-kategori-b.png" alt="Grafik Kategori B" width="750">
+  <img src="assets/grafik-2-kategori-b.png" alt="Grafik 2 Kategori B" width="750">
 </p>
 
 </details>
@@ -143,7 +149,7 @@ Dataset terdiri dari **100 responden** dengan **9 kolom utama**.
 <br>
 
 <p align="center">
-  <img src="assets/grafik-kategori-c.png" alt="Grafik Kategori C" width="750">
+  <img src="assets/grafik-3-kategori-c.png" alt="Grafik 3 Kategori C" width="750">
 </p>
 
 </details>
@@ -154,7 +160,7 @@ Dataset terdiri dari **100 responden** dengan **9 kolom utama**.
 <br>
 
 <p align="center">
-  <img src="assets/grafik-kategori-d.png" alt="Grafik Kategori D" width="750">
+  <img src="assets/grafik-4-kategori-d.png" alt="Grafik 4 Kategori D" width="750">
 </p>
 
 </details>
@@ -169,7 +175,7 @@ Beberapa insight dari dataset:
 - Terdapat **52 responden school** dan **48 responden college**.
 - Sebanyak **40 responden menggunakan AI**, sedangkan **60 responden tidak menggunakan AI**.
 - Rata-rata jam belajar per hari adalah sekitar **2,99 jam**.
-- Terdapat responden pengguna AI yang nilainya **tidak berubah** setelah penggunaan AI.
+- Dari seluruh pengguna AI, **tidak ada** yang nilainya tidak berubah sama sekali setelah menggunakan AI.
 - Grafik stripplot menunjukkan sebaran korelasi antara durasi layar harian dan waktu belajar yang bervariasi.
 - Distribusi nilai awal siswa divisualisasikan dengan histogram dan kurva KDE untuk melihat pola sebaran nilai.
 
@@ -241,7 +247,7 @@ Setelah Jupyter terbuka, pilih notebook yang ingin dijalankan.
 Untuk melihat seluruh hasil visualisasi dalam satu tampilan, jalankan notebook:
 
 ```bash
-Grafik 5 (Gabungan).ipynb
+Grafik Kategori Gabungan.ipynb
 ```
 
 Pastikan file dataset berikut berada di folder yang sama dengan notebook:
@@ -280,18 +286,16 @@ Beberapa pengembangan yang bisa ditambahkan:
 
 ---
 
-## 👤 Author
+## 👥 Our Team
 
-Rincian tugas setiap anggota kelompok:
+Kelompok 6 · Kelas F · Teknik Elektro · Universitas Diponegoro
 
 | No | Nama | NIM | Tugas |
 | --- | --- | --- | --- |
-| 1 | Salwa Andini Tanjung | 21060125120004 | Pembuatan Program dan Visual Grafik Kategori A, Kategori B dan Grafik Gabungan |
-| 2 | Zulfatus Soraya | 21060125120015 | Mendesain Infografis Untuk Publikasi Instagram Story Secara Penuh |
-| 3 | Rachmat Bagus Priyono | 21060125120019 | Mendesain Inforgrafis Untuk Publikasi LinkedIn Secara Penuh  |
+| 1 | Salwa Andini Tanjung | 21060125120004 | Pembuatan Program dan Visual Grafik Kategori A, Kategori B, dan Grafik Gabungan |
+| 2 | Zulfatus Soraya | 21060125120015 | Mendesain Infografis untuk Publikasi Instagram Story secara Penuh |
+| 3 | Rachmat Bagus Priyono | 21060125120019 | Mendesain Infografis untuk Publikasi LinkedIn secara Penuh |
 | 4 | Maulidia Putri | 21060125120034 | Pembuatan Program dan Visual Grafik Kategori C dan Kategori D |
-
-**Universitas Diponegoro**
 
 ---
 
