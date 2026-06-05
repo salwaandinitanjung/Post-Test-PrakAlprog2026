@@ -12,9 +12,9 @@
 
 <br><br>
 
-> 🎓 Post-Test Praktikum Algoritma dan Pemrograman · Semester 2 · Teknik Elektro · Universitas Diponegoro
->
-> 👥 Kelompok 6 · Kelas F
+🎓 Post-Test Praktikum Algoritma dan Pemrograman · Semester 2 · Teknik Elektro · Universitas Diponegoro
+
+👥 Kelompok 6 · Kelas F
 
 </div>
 
@@ -34,11 +34,11 @@
 
 Project ini membahas beberapa hal utama, seperti:
 
-- rata-rata durasi screen time harian berdasarkan software AI yang digunakan;
-- distribusi umur pengguna AI yang tidak mengalami perubahan nilai;
-- korelasi antara durasi layar harian dan waktu belajar menggunakan jittered stripplot;
-- distribusi nilai awal siswa sebelum menggunakan AI;
-- rangkuman seluruh grafik dalam satu visualisasi gabungan.
+- Rata-rata durasi screen time harian berdasarkan software AI yang digunakan;
+- Distribusi umur pengguna AI yang tidak mengalami perubahan nilai;
+- Korelasi antara durasi layar harian dan waktu belajar menggunakan jittered stripplot;
+- Distribusi nilai awal siswa sebelum menggunakan AI;
+- Rangkuman seluruh grafik dalam satu visualisasi gabungan.
 
 ---
 
@@ -127,7 +127,7 @@ Dataset terdiri dari **100 responden** dengan **9 kolom utama**.
 <br>
 
 <p align="center">
-  <img src="assets/grafik-1-kategori-a.png" alt="Grafik 1 Kategori A" width="750">
+  <img src="assets/grafik-kategori-a.png" alt="Grafik Kategori A" width="750">
 </p>
 
 </details>
@@ -138,7 +138,7 @@ Dataset terdiri dari **100 responden** dengan **9 kolom utama**.
 <br>
 
 <p align="center">
-  <img src="assets/grafik-2-kategori-b.png" alt="Grafik 2 Kategori B" width="750">
+  <img src="assets/grafik-kategori-b.png" alt="Grafik Kategori B" width="750">
 </p>
 
 </details>
@@ -149,7 +149,7 @@ Dataset terdiri dari **100 responden** dengan **9 kolom utama**.
 <br>
 
 <p align="center">
-  <img src="assets/grafik-3-kategori-c.png" alt="Grafik 3 Kategori C" width="750">
+  <img src="assets/grafik-kategori-c.png" alt="Grafik Kategori C" width="750">
 </p>
 
 </details>
@@ -160,7 +160,7 @@ Dataset terdiri dari **100 responden** dengan **9 kolom utama**.
 <br>
 
 <p align="center">
-  <img src="assets/grafik-4-kategori-d.png" alt="Grafik 4 Kategori D" width="750">
+  <img src="assets/grafik-kategori-d.png" alt="Grafik Kategori D" width="750">
 </p>
 
 </details>
