@@ -23,7 +23,7 @@
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="assets/grafik-5-gabungan.png" alt="Preview Grafik Gabungan Student AI Usage" width="850">
+  <img src="assets/grafik-kategori-gabungan.png" alt="Preview Grafik Gabungan Student AI Usage" width="850">
 </p>
 
 ---
