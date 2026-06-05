@@ -288,7 +288,7 @@ Rincian tugas setiap anggota kelompok:
 | --- | --- | --- | --- |
 | 1 | Salwa Andini Tanjung | 21060125120004 | Pembuatan Program dan Visual Grafik Kategori A, Kategori B dan Grafik Gabungan |
 | 2 | Zulfatus Soraya | 21060125120015 | Mendesain Infografis Untuk Publikasi Instagram Story Secara Penuh |
-| 3 | Rachmat Bagus Priyono | 21060125120034 | Mendesain Inforgrafis Untuk Publikasi LinkedIn Secara Penuh  |
+| 3 | Rachmat Bagus Priyono | 21060125120019 | Mendesain Inforgrafis Untuk Publikasi LinkedIn Secara Penuh  |
 | 4 | Maulidia Putri | 21060125120034 | Pembuatan Program dan Visual Grafik Kategori C dan Kategori D |
 
 **Universitas Diponegoro**
